@@ -25,7 +25,7 @@ In **Corruptbox 2 But Sprunki**, players are introduced to a variety of warped S
 
 ## Gameplay Mechanics of Corruptbox 2 But Sprunki
 
-### How to Play
+### How to Play Corruptbox 2 But Sprunki?
 
 1. **Select Corrupted Characters**: Players can drag and drop glitchy avatars onto the stage to begin crafting their musical mix.
 2. **Mix Distorted Sounds**: By combining various fragmented sounds, players create eerie and unique musical tracks.
