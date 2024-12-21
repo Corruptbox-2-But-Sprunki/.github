@@ -5,14 +5,17 @@
 ## Play Corruptbox 2 But Sprunki Now
 Are you ready to dive into an enchanting journey of music? Let’s begin the adventure!
 
-### [Corruptbox 2 But Sprunki](https://sprunkisinner.org/corruptbox-2-but-sprunki)
-### [Sprunki Corruptbox 3 Infected War](https://sprunkisinner.org/sprunki-corruptbox-3-infected-war)
-### [Sprunki Gyat](https://sprunkisinner.org/sprunki-gyat)
+### Play Game in Corruptbox
 
+- [Corruptbox 2 But Sprunki](https://corruptbox.com/corruptbox-2-but-sprunki)
+- [Sprunki Corruptbox 3 Infected War](https://corruptbox.com/corruptbox-3-x-sprunki)
+- [Corruptbox But Sprunki](https://corruptbox.com/corruptbox-but-sprunki)
 
+### Play Game in Sprunki Sinner
 
-[![Corruptbox 2 But Sprunki](https://sprunkisinner.org/_nuxt/corruptbox-2-but-sprunki.Dd6y891n.jpg)](https://sprunkisinner.org/corruptbox-2-but-sprunki)
-
+- [Corruptbox 2 But Sprunki](https://sprunkisinner.org/corruptbox-2-but-sprunki)
+- [Sprunki Corruptbox 3 Infected War](https://sprunkisinner.org/sprunki-corruptbox-3-infected-war)
+- [Corruptbox But Sprunki](https://sprunkisinner.org/corruptbox-but-sprunki)
 
 
 ## Overview of Corruptbox 2 But Sprunki
@@ -22,6 +25,8 @@ In **Corruptbox 2 But Sprunki**, players are introduced to a variety of warped S
 - **Expanded Corrupted Characters**: Each character presents a unique sound profile, contributing to the game's haunting soundscape.
 - **Distorted Audio Effects**: Players navigate through fragmented beats and melodies, challenging them to create harmonious compositions amid chaos.
 - **Dynamic Glitch Animations**: The visuals are characterized by flickering screens and disjointed movements, enhancing the unsettling atmosphere.
+
+[![Corruptbox 2 But Sprunki](https://sprunkisinner.org/_nuxt/corruptbox-2-but-sprunki.Dd6y891n.jpg)](https://sprunkisinner.org/corruptbox-2-but-sprunki)
 
 ## Gameplay Mechanics of Corruptbox 2 But Sprunki
 
