@@ -17,11 +17,6 @@ Are you ready to dive into an enchanting journey of music? Let’s begin the adv
 - [Corruptbox 3 x Sprunki](https://sprunkisinner.org/sprunki-corruptbox-3-infected-war)
 - [Corruptbox But Sprunki](https://sprunkisinner.org/corruptbox-but-sprunki)
 
-
-[![Corruptbox 2 But Sprunki](https://sprunkisinner.org/_nuxt/corruptbox-2-but-sprunki.Dd6y891n.jpg)](https://sprunkisinner.org/corruptbox-2-but-sprunki)
-
-
-
 ## Overview of Corruptbox 2 But Sprunki
 
 In **Corruptbox 2 But Sprunki**, players are introduced to a variety of warped Sprunki characters, each transformed into glitchy, creepy versions of themselves. The game features:
@@ -29,6 +24,8 @@ In **Corruptbox 2 But Sprunki**, players are introduced to a variety of warped S
 - **Expanded Corrupted Characters**: Each character presents a unique sound profile, contributing to the game's haunting soundscape.
 - **Distorted Audio Effects**: Players navigate through fragmented beats and melodies, challenging them to create harmonious compositions amid chaos.
 - **Dynamic Glitch Animations**: The visuals are characterized by flickering screens and disjointed movements, enhancing the unsettling atmosphere.
+
+[![Corruptbox 2 But Sprunki](https://sprunkisinner.org/_nuxt/corruptbox-2-but-sprunki.Dd6y891n.jpg)](https://sprunkisinner.org/corruptbox-2-but-sprunki)
 
 ## Gameplay Mechanics of Corruptbox 2 But Sprunki
 
